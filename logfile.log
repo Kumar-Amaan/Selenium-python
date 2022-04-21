@@ -1,0 +1,86 @@
+2022-04-21 17:16:16,861 :INFO : test_formSubmission :Entering Name
+2022-04-21 17:16:16,959 :INFO : test_formSubmission :Entering Email
+2022-04-21 17:16:17,034 :INFO : test_formSubmission :Entering Password
+2022-04-21 17:16:17,102 :INFO : test_formSubmission :Clicking on checkbox
+2022-04-21 17:16:17,156 :INFO : test_formSubmission :Selecting gender
+2022-04-21 17:16:17,197 :INFO : test_formSubmission :Choosing employement status radio btn
+2022-04-21 17:16:17,243 :INFO : test_formSubmission :Entering date of birth
+2022-04-21 17:16:19,318 :INFO : test_formSubmission :Clicking Submit btn
+2022-04-21 17:16:21,428 :INFO : test_formSubmission :Scrolling up
+2022-04-21 17:16:23,696 :INFO : test_formSubmission :Entering Name
+2022-04-21 17:16:23,696 :INFO : test_formSubmission :Entering Name
+2022-04-21 17:16:23,780 :INFO : test_formSubmission :Entering Email
+2022-04-21 17:16:23,780 :INFO : test_formSubmission :Entering Email
+2022-04-21 17:16:23,855 :INFO : test_formSubmission :Entering Password
+2022-04-21 17:16:23,855 :INFO : test_formSubmission :Entering Password
+2022-04-21 17:16:23,920 :INFO : test_formSubmission :Clicking on checkbox
+2022-04-21 17:16:23,920 :INFO : test_formSubmission :Clicking on checkbox
+2022-04-21 17:16:23,978 :INFO : test_formSubmission :Selecting gender
+2022-04-21 17:16:23,978 :INFO : test_formSubmission :Selecting gender
+2022-04-21 17:16:24,039 :INFO : test_formSubmission :Choosing employement status radio btn
+2022-04-21 17:16:24,039 :INFO : test_formSubmission :Choosing employement status radio btn
+2022-04-21 17:16:24,079 :INFO : test_formSubmission :Entering date of birth
+2022-04-21 17:16:24,079 :INFO : test_formSubmission :Entering date of birth
+2022-04-21 17:16:26,136 :INFO : test_formSubmission :Clicking Submit btn
+2022-04-21 17:16:26,136 :INFO : test_formSubmission :Clicking Submit btn
+2022-04-21 17:16:28,242 :INFO : test_formSubmission :Scrolling up
+2022-04-21 17:16:28,242 :INFO : test_formSubmission :Scrolling up
+2022-04-21 17:17:21,949 :INFO : test_e2e :Getting all catd Titles
+2022-04-21 17:17:21,963 :INFO : test_e2e :Getting Card text
+2022-04-21 17:17:21,963 :INFO : test_e2e :iphone X
+2022-04-21 17:17:21,987 :INFO : test_e2e :Getting Card text
+2022-04-21 17:17:21,988 :INFO : test_e2e :Samsung Note 8
+2022-04-21 17:17:22,005 :INFO : test_e2e :Getting Card text
+2022-04-21 17:17:22,005 :INFO : test_e2e :Nokia Edge
+2022-04-21 17:17:22,030 :INFO : test_e2e :Getting Card text
+2022-04-21 17:17:22,030 :INFO : test_e2e :Blackberry
+2022-04-21 17:17:23,132 :INFO : test_e2e :Clicking on Checkout Link
+2022-04-21 17:17:25,252 :INFO : test_e2e :Clicking on Checkout Button
+2022-04-21 17:17:27,312 :INFO : test_e2e :entering country name
+2022-04-21 17:17:32,364 :INFO : test_e2e :clicking on country name
+2022-04-21 17:17:34,445 :INFO : test_e2e :Clicking on checkbox
+2022-04-21 17:17:34,533 :INFO : test_e2e :Clicking on Purchase button
+2022-04-21 17:17:36,661 :INFO : test_e2e :Verifying message text
+2022-04-21 17:25:34,533 :INFO : test_formSubmission :Entering Name
+2022-04-21 17:25:34,631 :INFO : test_formSubmission :Entering Email
+2022-04-21 17:25:34,709 :INFO : test_formSubmission :Entering Password
+2022-04-21 17:25:34,780 :INFO : test_formSubmission :Clicking on checkbox
+2022-04-21 17:25:34,833 :INFO : test_formSubmission :Selecting gender
+2022-04-21 17:25:34,881 :INFO : test_formSubmission :Choosing employement status radio btn
+2022-04-21 17:25:34,932 :INFO : test_formSubmission :Entering date of birth
+2022-04-21 17:25:37,022 :INFO : test_formSubmission :Clicking Submit btn
+2022-04-21 17:25:39,101 :INFO : test_formSubmission :Scrolling up
+2022-04-21 17:25:41,373 :INFO : test_formSubmission :Entering Name
+2022-04-21 17:25:41,373 :INFO : test_formSubmission :Entering Name
+2022-04-21 17:25:41,449 :INFO : test_formSubmission :Entering Email
+2022-04-21 17:25:41,449 :INFO : test_formSubmission :Entering Email
+2022-04-21 17:25:41,523 :INFO : test_formSubmission :Entering Password
+2022-04-21 17:25:41,523 :INFO : test_formSubmission :Entering Password
+2022-04-21 17:25:41,586 :INFO : test_formSubmission :Clicking on checkbox
+2022-04-21 17:25:41,586 :INFO : test_formSubmission :Clicking on checkbox
+2022-04-21 17:25:41,642 :INFO : test_formSubmission :Selecting gender
+2022-04-21 17:25:41,642 :INFO : test_formSubmission :Selecting gender
+2022-04-21 17:25:41,708 :INFO : test_formSubmission :Choosing employement status radio btn
+2022-04-21 17:25:41,708 :INFO : test_formSubmission :Choosing employement status radio btn
+2022-04-21 17:25:41,751 :INFO : test_formSubmission :Entering date of birth
+2022-04-21 17:25:41,751 :INFO : test_formSubmission :Entering date of birth
+2022-04-21 17:25:43,814 :INFO : test_formSubmission :Clicking Submit btn
+2022-04-21 17:25:43,814 :INFO : test_formSubmission :Clicking Submit btn
+2022-04-21 17:25:45,899 :INFO : test_formSubmission :Scrolling up
+2022-04-21 17:25:45,899 :INFO : test_formSubmission :Scrolling up
+2022-04-21 17:26:53,460 :INFO : test_e2e :Getting all catd Titles
+2022-04-21 17:26:53,480 :INFO : test_e2e :Getting Card text
+2022-04-21 17:26:53,480 :INFO : test_e2e :iphone X
+2022-04-21 17:26:53,502 :INFO : test_e2e :Getting Card text
+2022-04-21 17:26:53,503 :INFO : test_e2e :Samsung Note 8
+2022-04-21 17:26:53,530 :INFO : test_e2e :Getting Card text
+2022-04-21 17:26:53,530 :INFO : test_e2e :Nokia Edge
+2022-04-21 17:26:53,564 :INFO : test_e2e :Getting Card text
+2022-04-21 17:26:53,564 :INFO : test_e2e :Blackberry
+2022-04-21 17:26:54,659 :INFO : test_e2e :Clicking on Checkout Link
+2022-04-21 17:26:56,788 :INFO : test_e2e :Clicking on Checkout Button
+2022-04-21 17:26:58,842 :INFO : test_e2e :entering country name
+2022-04-21 17:27:03,919 :INFO : test_e2e :clicking on country name
+2022-04-21 17:27:05,996 :INFO : test_e2e :Clicking on checkbox
+2022-04-21 17:27:06,078 :INFO : test_e2e :Clicking on Purchase button
+2022-04-21 17:27:08,188 :INFO : test_e2e :Verifying message text
